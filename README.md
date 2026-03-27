@@ -1,6 +1,6 @@
 I have to catch up here !!! 
 
-This is old, the archiecture is probably still good for the realtime QRadar extension.
+This is old, the architechture is probably still good for the realtime QRadar extension.
 
 Its bassically a python connection from QRadar Alert I think, to my remote system running Debian Linux.
 I would have used syslog-ng to peel in the data and redirect it to my palao aloto C plugin
